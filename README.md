@@ -167,7 +167,7 @@ Loan-Approval-Prediction/
 
 **Suhani Gupta**
 
-Machine Learning & Python Developer
+ Aspiring AI Engineer, Python & Machine Learning Enthusiast
 
 ---
 
